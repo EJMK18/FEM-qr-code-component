@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository files](https://github.com/EJMK18/FEM-qr-code-component)
+- Live Site URL: [QR code component solution](https://ejmk18.github.io/FEM-qr-code-component/)
 
 ## My process
 
